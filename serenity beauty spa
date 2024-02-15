@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<HTML>
+<Head>
+<Title>Serenity Beauty Spa </Title>
+   <nav>
+   <div>
+   <img src="logo.jpg" style="float:left" width="100px" height="50px"/>
+   <p style="font-size:25px;"><em><b>Serenity Beauty Spa<b><em></p>
+   <p style="float:right">
+     <a href="#">Home|</a>
+	   <a href="#">About|</a>
+	     <a href="#"Contact Us|</a>
+		   <a href="#">Terms and conditions|</a>
+    </div>
+    </nav>
+	</head>
+	<hr>
+	<br/>
+	<br/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container{
+  position: relative;
+  text-align:center;
+  color:white;
+  }
+  .centered{
+    position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	}
+	</style>
+<body>
+<div class="container">
+<img src="background.jpg" style="top-left" width="1250px" height="150px"/>
+<div class="top-left"><i><b>Welcome to our Beauty Spa,Relaxing & Wellness Center<b><i></div>
+</div>
+<br/>
+<br/>
+<p style="font-size:25px;" style="text-align:center;"><b><em>A Rejuvinated Spa Experience</b></em></p>
+<p/>
+<p>The Spa's tranquil environment provides much needed break from daily stressors, allowing the mind to unwind and find inner peace. The soothing<br/> ambience,soft music, and aromatherapy contribute to mental rejuvenation.</p>
+</p>
+<br/>
+     <img src="massages.jpg" style="float:center" width="1250px" height="300px"/>
+		 <p style="text-align:center;"><b>Special Offer<b></p>
+		 <br/>
+		 <br/>
+<mark> MANICURE MONDAY </mark><br>
+<p> Manicure for only R 100.00</p><br/>
+<mark>TOOTSY TUESDAY</mark><br/>
+<p> Pedicure for R150.00</p><br/>
+<mark>WAXING WEDNESAY</mark><br/>
+<p> Waxing services at 15%</p><br/>ss<mark>TANNING THURSDAY</mark>
+<p>Get an airbush tan for only 25%</p><br/>
+<mark>FACIAL FRIDAY</mark>
+<p>Save 15% off on every facial offers!</p>
+<mark>SEXY SATURDAY</mark>
+<p>Pro make-up application with a glass of champagne for R200</p><br/>
+<mark>SLOW-DOWN SUNDAY</mark>
+<p>Enjoy any massage for 10%</p><br/>
+ <img src="stone massage.jpg" style="float:left" width="1250px" height="150px"/><br/>
+ <br/>
+ <br/>
+  <br/>
+   <br/> <br/> <br/> <br/> <br/> <br/>
+   <style style="text/css">
+   * {
+   box-sizing: border-box;
+   }
+   html,body{
+      margin: 0;
+	  padding:0;
+	  }
+	  body{
+	  display: flex;
+	  min-height: 100vh;
+	  flex-direction: column;
+	  }
+	  main{
+	     flex: 1 0 auto;
+		 }
+		 footer{
+		 color:#fff;
+		 background:#333;
+		 position: relative;/*required t position the copyright at the bottom*/
+		 font-size:80%;
+	}
+	.footer-copyright{
+	width:100%;
+	height:40px;
+	background:#111;
+	/*positions the copyright at the footer*/
+	padding:10px;
+	position:absolute;
+	bottom:0px;
+	left:opx;
+	}
+	. footer-body{
+	    margin-bottom:40px;
+		padding:30px;
+	}
+	.footer-body > div:first-child{
+	font-size:150%;
+	}
+	.footer-body ul{
+	list-style-type:none;
+	margin:0px;
+	padding: 0px;
+	text-align:center;
+	}
+	.footer-body li > a {
+	color:white;
+	text-decoration:none;
+	margin-bottom: 7px;
+	}
+	</style>
+	
+	
+ <header></header>
+ <main></main>
+ <footer>
+ <div class="footer-body">
+ <div>
+ <p style="text-align:center;">Serenity Beauty Spa.</div>
+ </div>
+	</div>
+	<br/>
+	<br/>
+<div class="footer-copyright"><br/>
+&copy 2024 Serenity Beauty Spa. All Rights Reserved. Designed By Bridget.
+</div>
+</footer>
+</body>
+ </html>
